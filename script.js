@@ -1,1 +1,1 @@
-<input type="submit"></input>
+<><input type="submit"></input><input type="button" onClick="document.forms.f.submit()"></input></>
