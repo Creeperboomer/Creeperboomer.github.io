@@ -13,3 +13,7 @@ body {
 body {
     margin: 0
 }
+<div style="text-align:center">
+  Ce texte sera centré.
+  <p>Ainsi que ce paragraphe.</p>
+</div>
